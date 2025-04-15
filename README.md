@@ -1,5 +1,5 @@
-Calculator Application
-Overview
+Calculator Application:-
+
 The Calculator Application is a simple GUI-based tool that performs basic arithmetic operations. Built using Java Swing, this application is interactive, user-friendly, and demonstrates event-driven programming.
 Features
 - Perform addition, subtraction, multiplication, and division.
